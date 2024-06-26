@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelMap-Assignment", "ParallelMap-Assignment\ParallelMap-Assignment.csproj", "{E024D465-F262-4C53-9B44-115E39B2DFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelMap-Assignment.Test", "ParallelMap-Assignment.Test\ParallelMap-Assignment.Test.csproj", "{4D242516-1CB2-42A2-8499-22FD56A40093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelMap-Assignment.ParallelMapLib", "ParallelMap-Assignment.ParallelMapLib\ParallelMap-Assignment.ParallelMapLib.csproj", "{B2333861-384E-4F91-9069-F48D75D50070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E024D465-F262-4C53-9B44-115E39B2DFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E024D465-F262-4C53-9B44-115E39B2DFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E024D465-F262-4C53-9B44-115E39B2DFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E024D465-F262-4C53-9B44-115E39B2DFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D242516-1CB2-42A2-8499-22FD56A40093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D242516-1CB2-42A2-8499-22FD56A40093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D242516-1CB2-42A2-8499-22FD56A40093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D242516-1CB2-42A2-8499-22FD56A40093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2333861-384E-4F91-9069-F48D75D50070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2333861-384E-4F91-9069-F48D75D50070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2333861-384E-4F91-9069-F48D75D50070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2333861-384E-4F91-9069-F48D75D50070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4736A2D3-073E-43A7-BEE1-F03760DF5866}
+	EndGlobalSection
+EndGlobal
